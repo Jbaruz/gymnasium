@@ -50,4 +50,8 @@ This project can serve as a foundation for more advanced research in reinforceme
 ### Real-World Applications
 The techniques demonstrated in this project are applicable to real-world scenarios where decision-making and control are critical, such as robotics, autonomous driving, financial modeling, and game AI. Understanding how to implement and train a DQN agent opens up opportunities to solve practical problems using reinforcement learning.
 
-This project not only illustrates the power of reinforcement learning but also equips you with the skills and understanding necessary to pursue further research and applications in this exciting field.
+## Documentation
+
+The Lunar Lander environment and other Gym environments are documented in the Gymnasium documentation. For more information, please refer to the official Gymnasium documentation:
+
+[Gymnasium Documentation](https://gymnasium.farama.org/)
